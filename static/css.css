@@ -1,0 +1,18 @@
+body {
+    background-image: url('https://cdn.mos.cms.futurecdn.net/Tpwmmfo3CiAJvwd4vXGzvn-1200-80.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+}
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
